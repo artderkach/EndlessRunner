@@ -513,4 +513,1120 @@ LogInit: Object subsystem initialized
 [2016.09.26-11.46.59:661][597]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2016.09.26-14.46.59
 [2016.09.26-11.46.59:662][597]LogWorld: Bringing up level for play took: 0.011056
 [2016.09.26-11.46.59:664][597]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.739
-[2016.09.26-11.46.59:665][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPerson
+[2016.09.26-11.46.59:665][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.26-11.47.06:927][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.26-11.47.07:093][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.26-11.47.10:919][789]Cmd: SELECT NONE
+[2016.09.26-11.47.13:469][835]Cmd: SELECT NONE
+[2016.09.26-11.51.05:504][462]LogTexture:Display: Building textures: T_Brick_Clay_Old_D (AutoDXT)
+[2016.09.26-11.51.15:829][462]LogTexture:Display: Building textures: T_Brick_Clay_Old_N (BC5)
+[2016.09.26-11.51.44:357][892]LogTexture:Display: Building textures: T_Concrete_Tiles_Variation_M (AutoDXT)
+[2016.09.26-11.51.44:582][892]LogTexture:Display: Building textures: T_Concrete_Tiles_N (BC5)
+[2016.09.26-11.51.45:703][892]LogTexture:Display: Building textures: T_Concrete_Tiles_D (AutoDXT)
+[2016.09.26-11.51.52:290][892]LogTexture:Display: Building textures: T_Concrete_Tiles_M (AutoDXT)
+[2016.09.26-11.53.13:330][697]LogEditorTransaction: Undo Modify Component(s)
+[2016.09.26-11.53.19:294][796]LogEditorTransaction: Undo Modify Component(s)
+[2016.09.26-11.55.44:466][910]LogTexture:Display: Building textures: T_Brick_Cut_Stone_N (BC5)
+[2016.09.26-11.55.45:614][910]LogTexture:Display: Building textures: T_Brick_Cut_Stone_D (AutoDXT)
+[2016.09.26-11.56.10:459][136]LogTexture:Display: Building textures: T_Wood_Pine_N (BC5)
+[2016.09.26-11.56.11:552][136]LogTexture:Display: Building textures: T_Wood_Pine_D (AutoDXT)
+[2016.09.26-11.56.36:417][426]LogTexture:Display: Building textures: T_Concrete_Poured_D (AutoDXT)
+[2016.09.26-11.56.45:109][426]LogTexture:Display: Building textures: T_Concrete_Poured_N (BC5)
+[2016.09.26-11.57.35:331][136]LogEditorTransaction: Undo Modify Component(s)
+[2016.09.26-12.00.46:315][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2016.09.26-12.00.46:342][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile] ([1] browsable assets)...
+[2016.09.26-12.00.46:444][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile]
+[2016.09.26-12.00.46:444][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_FloorTile]
+[2016.09.26-12.00.46:541][ 35]LogSavePackage: Save=87.52ms
+[2016.09.26-12.00.46:541][ 35]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Auto19AE68B5F41FF702B425F9392A996A06D.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto1.uasset'
+[2016.09.26-12.00.46:544][ 35]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_FloorTile_Auto1.uasset
+[2016.09.26-12.00.46:544][ 35]LogFileHelpers: Auto-saving content packages took 0.219
+[2016.09.26-12.02.36:251][991]BlueprintLog: New page: Compile BP_FloorTile
+[2016.09.26-12.02.36:604][991]BlueprintEditorCompileResults: Info [2472.78] Compile of BP_FloorTile successful! [in 352 ms] (/Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile)
+[2016.09.26-12.02.36:952][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2016.09.26-12.02.36:997][  4]LogSavePackage: Save=40.64ms
+[2016.09.26-12.02.36:997][  4]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTileE5E946BD4476259585A1D7BF6489FF06.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2016.09.26-12.02.37:005][  4]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2016.09.26-12.02.51:253][247]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=2
+[2016.09.26-12.02.51:293][247]LightingResults: New page: Lighting Build
+[2016.09.26-12.02.51:296][247]LoadErrors: New page: Loading map: Template_Default.umap
+[2016.09.26-12.02.51:456][247]MapCheck: New page: Map Check
+[2016.09.26-12.02.51:456][247]LightingResults: New page: Lighting Build
+[2016.09.26-12.02.51:714][247]LogAIModule: Creating AISystem for world Untitled_1
+[2016.09.26-12.02.51:724][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.09.26-12.02.51:762][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.09.26-12.02.51:967][247]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 204.722ms to complete.
+[2016.09.26-12.02.51:967][247]LogFileHelpers: Loading map 'Template_Default' took 0.759
+[2016.09.26-12.03.17:820][562]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2016.09.26-12.03.17:820][562]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/RunGameMode.SKEL_RunGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2016.09.26-12.03.18:112][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.03.18:130][562]LogSavePackage: Save=14.82ms
+[2016.09.26-12.03.18:130][562]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameModeCFDD57004BB490ACD4526F8B1C798894.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.03.18:135][562]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.05.30:870][462]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.09.26-12.05.36:744][759]BlueprintLog: New page: Compile RunGameMode
+[2016.09.26-12.05.37:031][759]BlueprintEditorCompileResults: Info [2653.20] Compile of RunGameMode successful! [in 287 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2016.09.26-12.05.39:274][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.09.26-12.05.41:284][883]Cmd: DELETE
+[2016.09.26-12.05.41:285][883]Cmd: ACTOR DELETE
+[2016.09.26-12.05.41:348][883]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.09.26-12.05.41:417][883]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2016.09.26-12.06.12:565][ 65]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.06.12:565][ 65]PIE: New page: SIE session: Untitled_1 (Sep 26, 2016, 5:06:12 PM)
+[2016.09.26-12.06.12:565][ 65]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.09.26-12.06.12:568][ 65]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003219s)
+[2016.09.26-12.06.12:571][ 65]LogAIModule: Creating AISystem for world Untitled_1
+[2016.09.26-12.06.12:571][ 65]LogPlayLevel: PIE: World Init took: (0.002631s)
+[2016.09.26-12.06.12:571][ 65]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006216s)
+[2016.09.26-12.06.12:630][ 65]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.06.12:636][ 65]LogInit: FAudioDevice initialized.
+[2016.09.26-12.06.12:715][ 65]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.06.12:716][ 65]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.06.12:716][ 65]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.06.12:716][ 65]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.06.12:719][ 65]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2016.09.26-15.06.12
+[2016.09.26-12.06.12:720][ 65]LogWorld: Bringing up level for play took: 0.003172
+[2016.09.26-12.06.12:777][ 65]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.148
+[2016.09.26-12.06.19:463][168]Cmd: SELECT NONE
+[2016.09.26-12.06.32:445][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.06.32:474][442]LogSavePackage: Save=19.74ms
+[2016.09.26-12.06.32:474][442]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode2E54C5FD41E86D256F8A48B22023B3B9.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.06.32:480][442]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.06.35:223][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.06.35:224][532]PIE: New page: SIE session: Untitled_1 (Sep 26, 2016, 5:06:35 PM)
+[2016.09.26-12.06.35:224][532]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.09.26-12.06.35:228][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003710s)
+[2016.09.26-12.06.35:229][532]LogAIModule: Creating AISystem for world Untitled_1
+[2016.09.26-12.06.35:229][532]LogPlayLevel: PIE: World Init took: (0.001213s)
+[2016.09.26-12.06.35:229][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005274s)
+[2016.09.26-12.06.35:283][532]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.06.35:289][532]LogInit: FAudioDevice initialized.
+[2016.09.26-12.06.35:352][532]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.06.35:352][532]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.06.35:353][532]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.06.35:353][532]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.06.35:356][532]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2016.09.26-15.06.35
+[2016.09.26-12.06.35:357][532]LogWorld: Bringing up level for play took: 0.003278
+[2016.09.26-12.06.35:359][532]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.433
+[2016.09.26-12.06.43:751][670]Cmd: SELECT NONE
+[2016.09.26-12.06.55:445][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.09.26-12.07.01:433][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.07.01:433][881]PIE: New page: SIE session: Untitled_1 (Sep 26, 2016, 5:07:01 PM)
+[2016.09.26-12.07.01:433][881]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.09.26-12.07.01:438][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005222s)
+[2016.09.26-12.07.01:441][881]LogAIModule: Creating AISystem for world Untitled_1
+[2016.09.26-12.07.01:442][881]LogPlayLevel: PIE: World Init took: (0.003012s)
+[2016.09.26-12.07.01:442][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008789s)
+[2016.09.26-12.07.01:493][881]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.07.01:499][881]LogInit: FAudioDevice initialized.
+[2016.09.26-12.07.01:567][881]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.07.01:567][881]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.07.01:567][881]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.07.01:567][881]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.07.01:570][881]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2016.09.26-15.07.01
+[2016.09.26-12.07.01:571][881]LogWorld: Bringing up level for play took: 0.002801
+[2016.09.26-12.07.01:573][881]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.646
+[2016.09.26-12.07.20:549][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2016.09.26-12.07.20:577][503]LogSavePackage: Save=19.51ms
+[2016.09.26-12.07.20:577][503]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile427301764EC7EE36AC121B9807265005.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2016.09.26-12.07.20:580][503]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2016.09.26-12.08.07:101][997]LogSavePackage: Save=26.03ms
+[2016.09.26-12.08.07:102][997]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunLevel1CF3CE0245AD2F9AC1459B901A4091CA.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/RunLevel.umap'
+[2016.09.26-12.08.07:107][997]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/RunLevel.umap
+[2016.09.26-12.08.07:136][997]LogFileHelpers: Saving map 'RunLevel' took 1.636
+[2016.09.26-12.08.07:139][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.08.07:164][997]LogSavePackage: Save=18.23ms
+[2016.09.26-12.08.07:164][997]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameModeE5A3ACF246FD4922E9E444BA6274F293.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.08.07:168][997]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.08.12:045][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.08.12:046][195]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:08:12 PM)
+[2016.09.26-12.08.12:046][195]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.08.12:050][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003972s)
+[2016.09.26-12.08.12:051][195]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.08.12:051][195]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2016.09.26-12.08.12:052][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005802s)
+[2016.09.26-12.08.12:100][195]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.08.12:107][195]LogInit: FAudioDevice initialized.
+[2016.09.26-12.08.12:174][195]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.08.12:174][195]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.08.12:175][195]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.08.12:175][195]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.08.12:178][195]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.08.12
+[2016.09.26-12.08.12:178][195]LogWorld: Bringing up level for play took: 0.002774
+[2016.09.26-12.08.12:232][195]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.694
+[2016.09.26-12.08.22:903][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.08.22:903][423]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:08:22 PM)
+[2016.09.26-12.08.22:903][423]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.08.22:906][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002977s)
+[2016.09.26-12.08.22:908][423]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.08.22:908][423]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2016.09.26-12.08.22:909][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005391s)
+[2016.09.26-12.08.22:956][423]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.08.22:961][423]LogInit: FAudioDevice initialized.
+[2016.09.26-12.08.23:027][423]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.08.23:027][423]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.08.23:027][423]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.08.23:027][423]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.08.23:030][423]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.08.23
+[2016.09.26-12.08.23:031][423]LogWorld: Bringing up level for play took: 0.002718
+[2016.09.26-12.08.23:033][423]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.107
+[2016.09.26-12.10.08:603][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.10.08:603][416]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:10:08 PM)
+[2016.09.26-12.10.08:603][416]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.10.08:608][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004763s)
+[2016.09.26-12.10.08:610][416]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.10.08:611][416]LogPlayLevel: PIE: World Init took: (0.002300s)
+[2016.09.26-12.10.08:611][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007511s)
+[2016.09.26-12.10.08:667][416]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.10.08:673][416]LogInit: FAudioDevice initialized.
+[2016.09.26-12.10.08:707][416]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.10.08:707][416]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.10.08:707][416]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.10.08:707][416]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.10.08:710][416]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.10.08
+[2016.09.26-12.10.08:711][416]LogWorld: Bringing up level for play took: 0.003217
+[2016.09.26-12.10.08:714][416]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.212
+[2016.09.26-12.10.21:948][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.10.21:948][776]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:10:21 PM)
+[2016.09.26-12.10.21:948][776]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.10.21:952][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003844s)
+[2016.09.26-12.10.21:954][776]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.10.21:954][776]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2016.09.26-12.10.21:954][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005751s)
+[2016.09.26-12.10.22:010][776]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.10.22:016][776]LogInit: FAudioDevice initialized.
+[2016.09.26-12.10.22:080][776]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.10.22:080][776]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.10.22:080][776]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.10.22:080][776]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.10.22:083][776]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.10.22
+[2016.09.26-12.10.22:084][776]LogWorld: Bringing up level for play took: 0.002697
+[2016.09.26-12.10.22:085][776]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.84
+[2016.09.26-12.10.45:641][475]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.10.45:642][475]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:10:45 PM)
+[2016.09.26-12.10.45:642][475]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.10.45:647][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004809s)
+[2016.09.26-12.10.45:648][475]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.10.45:649][475]LogPlayLevel: PIE: World Init took: (0.001919s)
+[2016.09.26-12.10.45:649][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007506s)
+[2016.09.26-12.10.45:708][475]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.10.45:714][475]LogInit: FAudioDevice initialized.
+[2016.09.26-12.10.45:779][475]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.10.45:779][475]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.10.45:779][475]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.10.45:779][475]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.10.45:782][475]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.10.45
+[2016.09.26-12.10.45:783][475]LogWorld: Bringing up level for play took: 0.002722
+[2016.09.26-12.10.45:784][475]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.859
+[2016.09.26-12.11.05:554][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.11.05:559][811]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:11:05 PM)
+[2016.09.26-12.11.05:559][811]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.11.05:563][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004463s)
+[2016.09.26-12.11.05:566][811]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.11.05:567][811]LogPlayLevel: PIE: World Init took: (0.003217s)
+[2016.09.26-12.11.05:567][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.008110s)
+[2016.09.26-12.11.05:633][811]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.11.05:641][811]LogInit: FAudioDevice initialized.
+[2016.09.26-12.11.05:724][811]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.11.05:725][811]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.11.05:725][811]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.11.05:725][811]LogWorld: Game class is 'GameMode'
+[2016.09.26-12.11.05:728][811]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.11.05
+[2016.09.26-12.11.05:729][811]LogWorld: Bringing up level for play took: 0.003251
+[2016.09.26-12.11.05:732][811]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.805
+[2016.09.26-12.12.29:145][739]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:145][739]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:145][739]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:228][740]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:228][740]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:249][741]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:250][741]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:273][742]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:273][742]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:327][743]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:327][743]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:390][744]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:390][744]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:449][745]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:450][745]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:508][746]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:508][746]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:570][747]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:571][747]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:631][748]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:631][748]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:692][749]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:692][749]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:752][750]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:752][750]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:814][751]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:814][751]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:874][752]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:874][752]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:936][753]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:936][753]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.29:994][754]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.29:994][754]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:054][755]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:054][755]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:117][756]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:117][756]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:254][757]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:254][757]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:271][758]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:271][758]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:300][759]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:301][759]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:361][760]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:361][760]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:422][761]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:423][761]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:482][762]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:482][762]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:542][763]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:542][763]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:602][764]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:603][764]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:663][765]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:663][765]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:724][766]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:724][766]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:785][767]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:786][767]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:847][768]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:847][768]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:908][769]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:908][769]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.30:969][770]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.30:969][770]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:030][771]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:031][771]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:090][772]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:090][772]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:152][773]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:152][773]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:213][774]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:213][774]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:349][775]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:349][775]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:367][776]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:371][776]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:393][777]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:393][777]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:455][778]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:455][778]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:515][779]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:515][779]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:576][780]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:576][780]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:641][781]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:641][781]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:699][782]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:699][782]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:759][783]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:760][783]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:820][784]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:821][784]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:882][785]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:882][785]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.31:943][786]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.31:943][786]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:005][787]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:005][787]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:067][788]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:067][788]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:127][789]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:127][789]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:189][790]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:190][790]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:250][791]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:250][791]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:309][792]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:310][792]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:441][793]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:442][793]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:457][794]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:457][794]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:492][795]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:493][795]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:554][796]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:554][796]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:616][797]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:616][797]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:675][798]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:675][798]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:737][799]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:737][799]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:798][800]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:798][800]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:859][801]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:859][801]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:921][802]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:921][802]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.32:982][803]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.32:982][803]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:043][804]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:043][804]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:104][805]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:108][805]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:167][806]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:167][806]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:228][807]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:228][807]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:288][808]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:288][808]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:349][809]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:349][809]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:408][810]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:409][810]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:541][811]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:541][811]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:555][812]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:556][812]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:590][813]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:591][813]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:652][814]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:652][814]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:713][815]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:713][815]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:774][816]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:774][816]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:835][817]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:835][817]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:897][818]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:897][818]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.33:958][819]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.33:958][819]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:019][820]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:019][820]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:080][821]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:081][821]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:142][822]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:142][822]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:203][823]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:203][823]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:266][824]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:266][824]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:327][825]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:327][825]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:389][826]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:390][826]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:450][827]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:450][827]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:509][828]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:509][828]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:647][829]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:647][829]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:661][830]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:661][830]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:662][830]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:662][830]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:665][830]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:665][830]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:671][830]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:671][830]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:672][830]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:672][830]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:691][831]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:692][831]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:694][831]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:694][831]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:700][831]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:701][831]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:702][831]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:702][831]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:748][832]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:748][832]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:751][832]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:751][832]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:757][832]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:757][832]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:758][832]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:758][832]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:809][833]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:809][833]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:811][833]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:812][833]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:817][833]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:817][833]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:818][833]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:818][833]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:869][834]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:869][834]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:872][834]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:872][834]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:876][834]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:881][834]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:881][834]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:882][834]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:932][835]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:932][835]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:934][835]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:934][835]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:941][835]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:941][835]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:942][835]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:942][835]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:994][836]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:995][836]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.34:999][836]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.34:999][836]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:000][836]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:000][836]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:094][837]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:094][837]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:120][837]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:120][837]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:124][837]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:124][837]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:125][837]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:125][837]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:134][837]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.09.26-12.12.35:195][838]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:195][838]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:201][838]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:201][838]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:203][838]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:203][838]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:228][839]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:228][839]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:232][839]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:233][839]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:233][839]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:234][839]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:246][840]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:247][840]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:252][840]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:252][840]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:254][840]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:254][840]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:274][841]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:274][841]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:279][841]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:279][841]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:279][841]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:280][841]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:304][842]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:304][842]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:308][842]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:308][842]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:309][842]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:309][842]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:333][843]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:333][843]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:337][843]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:337][843]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:338][843]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:338][843]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:363][844]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:364][844]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:368][844]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:368][844]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:369][844]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:369][844]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:394][845]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:394][845]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:398][845]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:398][845]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:399][845]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:399][845]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:425][846]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:425][846]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:429][846]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:429][846]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:430][846]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:430][846]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:448][847]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:448][847]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:452][847]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:452][847]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:453][847]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:453][847]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:478][848]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:478][848]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:481][848]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:482][848]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:482][848]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:482][848]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:509][849]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:509][849]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:513][849]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:513][849]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:514][849]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:514][849]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:531][850]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:532][850]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:536][850]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:536][850]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:537][850]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:537][850]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:561][851]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:561][851]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:565][851]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:566][851]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:566][851]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:567][851]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:593][852]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:593][852]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:598][852]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:599][852]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:599][852]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:600][852]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:623][853]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:623][853]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:628][853]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:628][853]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:629][853]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:629][853]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:646][854]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:646][854]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:668][854]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:668][854]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:669][854]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:669][854]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:682][855]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:682][855]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:689][855]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:689][855]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:690][855]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:690][855]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:706][856]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:706][856]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:711][856]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:711][856]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:712][856]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:712][856]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:726][857]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:726][857]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:730][857]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:731][857]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:731][857]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:732][857]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:747][858]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:748][858]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:751][858]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:752][858]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:753][858]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:753][858]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:778][859]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:778][859]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:782][859]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:782][859]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:783][859]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:783][859]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:809][860]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:809][860]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:813][860]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:813][860]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:814][860]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:814][860]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:839][861]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:840][861]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:843][861]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:843][861]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:844][861]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:844][861]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:862][862]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:862][862]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:867][862]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:867][862]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:868][862]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:868][862]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:885][863]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:886][863]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:890][863]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:891][863]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:892][863]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:892][863]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:915][864]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:916][864]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:917][864]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:917][864]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:923][864]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:923][864]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:924][864]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:924][864]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:951][865]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:951][865]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:974][866]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:974][866]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.35:991][867]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.35:991][867]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:018][868]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:019][868]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:048][869]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:048][869]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:079][870]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:079][870]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:107][871]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:107][871]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:138][872]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:139][872]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:168][873]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:169][873]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:203][874]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:203][874]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:258][875]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:258][875]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:275][876]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:275][876]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:305][877]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:305][877]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:336][878]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:336][878]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:366][879]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:367][879]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:397][880]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:398][880]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:429][881]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:429][881]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:460][882]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:461][882]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:489][883]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:489][883]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:518][884]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:518][884]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:535][885]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:535][885]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:590][886]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:590][886]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:607][887]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:607][887]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:634][888]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:634][888]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:665][889]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:665][889]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:722][890]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:723][890]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:738][891]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:739][891]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:757][892]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:757][892]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:786][893]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:787][893]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:816][894]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:816][894]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:845][895]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:845][895]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:875][896]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:876][896]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:905][897]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:905][897]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:933][898]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:933][898]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:961][899]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:961][899]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.36:989][900]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.36:989][900]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:017][901]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:017][901]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:047][902]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:047][902]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:076][903]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:076][903]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:104][904]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:104][904]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:133][905]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:133][905]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:163][906]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:163][906]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:191][907]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:191][907]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:220][908]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:220][908]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:250][909]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:250][909]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:278][910]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:278][910]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:308][911]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:308][911]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:337][912]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:337][912]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:371][913]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:371][913]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:399][914]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:399][914]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.37:430][915]LogLinker:Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2016.09.26-12.12.37:430][915]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2016.09.26-12.12.57:573][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.12.57:573][350]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:12:57 PM)
+[2016.09.26-12.12.57:573][350]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.12.57:577][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004205s)
+[2016.09.26-12.12.57:579][350]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.12.57:580][350]LogPlayLevel: PIE: World Init took: (0.002198s)
+[2016.09.26-12.12.57:580][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.006856s)
+[2016.09.26-12.12.57:644][350]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.12.57:651][350]LogInit: FAudioDevice initialized.
+[2016.09.26-12.12.57:728][350]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.12.57:732][350]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.12.57
+[2016.09.26-12.12.57:733][350]LogWorld: Bringing up level for play took: 0.003983
+[2016.09.26-12.12.58:030][350]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 1.104
+[2016.09.26-12.13.02:594][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.13.02:594][435]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:13:02 PM)
+[2016.09.26-12.13.02:594][435]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.13.02:598][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003444s)
+[2016.09.26-12.13.02:600][435]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.13.02:600][435]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2016.09.26-12.13.02:600][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005582s)
+[2016.09.26-12.13.02:651][435]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.13.02:657][435]LogInit: FAudioDevice initialized.
+[2016.09.26-12.13.02:724][435]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.13.02:727][435]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.13.02
+[2016.09.26-12.13.02:728][435]LogWorld: Bringing up level for play took: 0.002837
+[2016.09.26-12.13.02:730][435]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.196
+[2016.09.26-12.13.59:301][791]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.09.26-12.14.00:557][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.14.00:558][811]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:14:00 PM)
+[2016.09.26-12.14.00:558][811]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.14.00:562][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004080s)
+[2016.09.26-12.14.00:563][811]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.14.00:563][811]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2016.09.26-12.14.00:564][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005665s)
+[2016.09.26-12.14.00:630][811]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.14.00:637][811]LogInit: FAudioDevice initialized.
+[2016.09.26-12.14.00:726][811]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.14.00:730][811]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.14.00
+[2016.09.26-12.14.00:731][811]LogWorld: Bringing up level for play took: 0.003951
+[2016.09.26-12.14.00:735][811]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.191
+[2016.09.26-12.14.04:481][867]Cmd: SELECT NONE
+[2016.09.26-12.14.10:394][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.14.10:394][  6]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:14:10 PM)
+[2016.09.26-12.14.10:395][  6]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.14.10:398][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002891s)
+[2016.09.26-12.14.10:399][  6]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.14.10:400][  6]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2016.09.26-12.14.10:400][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005275s)
+[2016.09.26-12.14.10:451][  6]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.14.10:457][  6]LogInit: FAudioDevice initialized.
+[2016.09.26-12.14.10:522][  6]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.14.10:525][  6]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.14.10
+[2016.09.26-12.14.10:526][  6]LogWorld: Bringing up level for play took: 0.003111
+[2016.09.26-12.14.10:530][  6]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.396
+[2016.09.26-12.14.16:604][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.14.16:604][124]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:14:16 PM)
+[2016.09.26-12.14.16:604][124]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.14.16:607][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003061s)
+[2016.09.26-12.14.16:608][124]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.14.16:608][124]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2016.09.26-12.14.16:608][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.004393s)
+[2016.09.26-12.14.16:664][124]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.14.16:670][124]LogInit: FAudioDevice initialized.
+[2016.09.26-12.14.16:734][124]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.14.16:737][124]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.14.16
+[2016.09.26-12.14.16:738][124]LogWorld: Bringing up level for play took: 0.003136
+[2016.09.26-12.14.16:741][124]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.185
+[2016.09.26-12.14.23:340][222]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:341][222]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:484][224]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:485][224]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:628][226]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:628][226]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:703][227]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:703][227]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:845][229]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:845][229]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:916][230]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:916][230]PIE:Warning: Warning Mobility of PlayerStart : CollisionCapsule has to be 'Movable' if you'd like to move. 
+[2016.09.26-12.14.23:985][231]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.09.26-12.14.28:059][327]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2016.09.26-12.14.28:931][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.14.28:931][343]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:14:28 PM)
+[2016.09.26-12.14.28:931][343]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.14.28:936][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004834s)
+[2016.09.26-12.14.28:938][343]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.14.28:938][343]LogPlayLevel: PIE: World Init took: (0.002165s)
+[2016.09.26-12.14.28:939][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007411s)
+[2016.09.26-12.14.28:989][343]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.14.28:995][343]LogInit: FAudioDevice initialized.
+[2016.09.26-12.14.29:060][343]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.14.29:063][343]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.14.29
+[2016.09.26-12.14.29:064][343]LogWorld: Bringing up level for play took: 0.003062
+[2016.09.26-12.14.29:067][343]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.141
+[2016.09.26-12.19.47:176][959]LogSavePackage: Save=57.87ms
+[2016.09.26-12.19.47:176][959]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunLevel_Auto22EC3B9CA4E3A44A3FBFF7AABB54AF16B.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/RunLevel_Auto2.umap'
+[2016.09.26-12.19.47:179][959]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Maps/RunLevel_Auto2.umap
+[2016.09.26-12.19.47:182][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/RunLevel' took 0.193
+[2016.09.26-12.19.47:182][959]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2016.09.26-12.19.47:185][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunGameMode] ([1] browsable assets)...
+[2016.09.26-12.19.47:185][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunGameMode]
+[2016.09.26-12.19.47:214][959]LogSavePackage: Save=20.37ms
+[2016.09.26-12.19.47:214][959]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode_Auto2E157B31A416426D5FE263CBCD252D26F.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto2.uasset'
+[2016.09.26-12.19.47:217][959]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunGameMode_Auto2.uasset
+[2016.09.26-12.19.47:217][959]LogFileHelpers: Auto-saving content packages took 0.034
+[2016.09.26-12.21.49:819][810]BlueprintLog: New page: Compile RunGameMode
+[2016.09.26-12.21.50:029][810]BlueprintEditorCompileResults: Info [3626.20] Compile of RunGameMode successful! [in 209 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2016.09.26-12.21.51:207][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.21.51:237][868]LogSavePackage: Save=21.02ms
+[2016.09.26-12.21.51:237][868]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode1FA693F946A956776C82C88BC9B45EE0.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.21.51:242][868]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.22.23:971][ 64]BlueprintLog: New page: Compile RunGameMode
+[2016.09.26-12.22.24:124][ 64]BlueprintEditorCompileResults: Info [3660.30] Compile of RunGameMode successful! [in 153 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2016.09.26-12.22.24:505][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.22.24:537][ 81]LogSavePackage: Save=25.64ms
+[2016.09.26-12.22.24:537][ 81]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameModeE656AA33457599F53151D9886850CCE8.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.22.24:542][ 81]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.22.25:975][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.22.25:975][120]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:22:25 PM)
+[2016.09.26-12.22.25:975][120]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.22.25:980][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005120s)
+[2016.09.26-12.22.25:982][120]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.22.25:982][120]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2016.09.26-12.22.25:982][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007333s)
+[2016.09.26-12.22.26:050][120]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.22.26:057][120]LogInit: FAudioDevice initialized.
+[2016.09.26-12.22.26:126][120]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.22.26:129][120]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.22.26
+[2016.09.26-12.22.26:129][120]LogWorld: Bringing up level for play took: 0.002871
+[2016.09.26-12.22.26:488][120]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.438
+[2016.09.26-12.22.34:194][164]Cmd: SELECT NONE
+[2016.09.26-12.22.43:617][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.22.43:617][278]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:22:43 PM)
+[2016.09.26-12.22.43:617][278]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.22.43:621][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003410s)
+[2016.09.26-12.22.43:624][278]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.22.43:624][278]LogPlayLevel: PIE: World Init took: (0.002927s)
+[2016.09.26-12.22.43:624][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.006683s)
+[2016.09.26-12.22.43:678][278]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.22.43:684][278]LogInit: FAudioDevice initialized.
+[2016.09.26-12.22.43:747][278]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.22.43:750][278]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.22.43
+[2016.09.26-12.22.43:751][278]LogWorld: Bringing up level for play took: 0.003287
+[2016.09.26-12.22.43:761][278]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.835
+[2016.09.26-12.22.51:873][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.22.51:873][416]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:22:51 PM)
+[2016.09.26-12.22.51:873][416]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.22.51:876][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002794s)
+[2016.09.26-12.22.51:878][416]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.22.51:878][416]LogPlayLevel: PIE: World Init took: (0.001828s)
+[2016.09.26-12.22.51:878][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.004949s)
+[2016.09.26-12.22.51:925][416]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.22.51:931][416]LogInit: FAudioDevice initialized.
+[2016.09.26-12.22.51:992][416]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.22.51:995][416]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.22.51
+[2016.09.26-12.22.51:996][416]LogWorld: Bringing up level for play took: 0.002890
+[2016.09.26-12.22.52:003][416]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 1.078
+[2016.09.26-12.22.55:454][439]Cmd: SELECT NONE
+[2016.09.26-12.23.04:201][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.23.04:234][673]LogSavePackage: Save=23.37ms
+[2016.09.26-12.23.04:234][673]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode6F046446441AC7F4E8E0BD84C8252132.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.23.04:241][673]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.24.03:021][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.24.03:021][954]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:24:03 PM)
+[2016.09.26-12.24.03:021][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.24.03:026][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005086s)
+[2016.09.26-12.24.03:028][954]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.24.03:028][954]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2016.09.26-12.24.03:029][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007406s)
+[2016.09.26-12.24.03:083][954]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.24.03:089][954]LogInit: FAudioDevice initialized.
+[2016.09.26-12.24.03:153][954]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.24.03:156][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.24.03
+[2016.09.26-12.24.03:157][954]LogWorld: Bringing up level for play took: 0.003028
+[2016.09.26-12.24.03:164][954]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.238
+[2016.09.26-12.24.12:645][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.24.12:645][110]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:24:12 PM)
+[2016.09.26-12.24.12:645][110]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.24.12:649][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004274s)
+[2016.09.26-12.24.12:650][110]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.24.12:651][110]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2016.09.26-12.24.12:651][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005725s)
+[2016.09.26-12.24.12:709][110]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.24.12:716][110]LogInit: FAudioDevice initialized.
+[2016.09.26-12.24.12:780][110]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.24.12:783][110]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.24.12
+[2016.09.26-12.24.12:784][110]LogWorld: Bringing up level for play took: 0.003333
+[2016.09.26-12.24.12:792][110]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.134
+[2016.09.26-12.24.17:371][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.24.17:371][164]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:24:17 PM)
+[2016.09.26-12.24.17:371][164]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.24.17:374][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2016.09.26-12.24.17:375][164]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.24.17:375][164]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2016.09.26-12.24.17:375][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.004561s)
+[2016.09.26-12.24.17:425][164]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.24.17:431][164]LogInit: FAudioDevice initialized.
+[2016.09.26-12.24.17:491][164]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.24.17:494][164]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.24.17
+[2016.09.26-12.24.17:495][164]LogWorld: Bringing up level for play took: 0.002950
+[2016.09.26-12.24.17:505][164]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.579
+[2016.09.26-12.24.30:960][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.24.30:961][375]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:24:30 PM)
+[2016.09.26-12.24.30:961][375]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.24.30:965][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004489s)
+[2016.09.26-12.24.30:967][375]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.24.30:967][375]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2016.09.26-12.24.30:967][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.006450s)
+[2016.09.26-12.24.31:020][375]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.24.31:026][375]LogInit: FAudioDevice initialized.
+[2016.09.26-12.24.31:092][375]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.24.31:095][375]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.24.31
+[2016.09.26-12.24.31:096][375]LogWorld: Bringing up level for play took: 0.002939
+[2016.09.26-12.24.31:103][375]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 0.177
+[2016.09.26-12.25.39:717][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2016.09.26-12.25.39:747][443]LogSavePackage: Save=20.66ms
+[2016.09.26-12.25.39:747][443]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile3BF36738474F2AF81C78AB8A8F6C6FA6.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2016.09.26-12.25.39:751][443]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2016.09.26-12.25.41:235][520]BlueprintLog: New page: Compile BP_FloorTile
+[2016.09.26-12.25.41:430][520]BlueprintEditorCompileResults: Info [3857.60] Compile of BP_FloorTile successful! [in 195 ms] (/Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile)
+[2016.09.26-12.25.45:507][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.09.26-12.25.48:345][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.25.48:345][691]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:25:48 PM)
+[2016.09.26-12.25.48:346][691]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.25.48:350][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004333s)
+[2016.09.26-12.25.48:351][691]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.25.48:352][691]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2016.09.26-12.25.48:352][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.006399s)
+[2016.09.26-12.25.48:429][691]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.25.48:438][691]LogInit: FAudioDevice initialized.
+[2016.09.26-12.25.48:510][691]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.25.48:513][691]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.25.48
+[2016.09.26-12.25.48:514][691]LogWorld: Bringing up level for play took: 0.003311
+[2016.09.26-12.25.48:523][691]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.402
+[2016.09.26-12.25.52:605][713]Cmd: SELECT NONE
+[2016.09.26-12.27.00:459][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.27.00:459][927]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:27:00 PM)
+[2016.09.26-12.27.00:459][927]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.27.00:465][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005597s)
+[2016.09.26-12.27.00:469][927]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.27.00:469][927]LogPlayLevel: PIE: World Init took: (0.003751s)
+[2016.09.26-12.27.00:469][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.009864s)
+[2016.09.26-12.27.00:536][927]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.27.00:544][927]LogInit: FAudioDevice initialized.
+[2016.09.26-12.27.00:576][927]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.27.00:579][927]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.27.00
+[2016.09.26-12.27.00:580][927]LogWorld: Bringing up level for play took: 0.003653
+[2016.09.26-12.27.00:910][927]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_FunctionResult', from offset 52
+[2016.09.26-12.27.00:910][927]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+	Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:AddFloorTile
+	Function /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile_C:GetAttachTransform
+
+[2016.09.26-12.27.29:893][927]LogTexture:Display: Building textures: BlueprintMacroLibrary_64x (BGRA8)
+[2016.09.26-12.27.58:247][927]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 57.32
+[2016.09.26-12.28.19:355][857]BlueprintLog: New page: Compile RunGameMode
+[2016.09.26-12.28.19:614][857]BlueprintEditorCompileResults: Info [4015.79] Compile of RunGameMode successful! [in 258 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2016.09.26-12.28.20:122][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.28.20:157][881]LogSavePackage: Save=25.10ms
+[2016.09.26-12.28.20:157][881]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode00F0BB7845DAB319D5AB3A898B4C84BA.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.28.20:162][881]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.28.21:971][975]BlueprintLog: New page: Compile BP_FloorTile
+[2016.09.26-12.28.22:175][975]BlueprintEditorCompileResults: Info [4018.35] Compile of BP_FloorTile successful! [in 203 ms] (/Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile)
+[2016.09.26-12.28.22:564][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2016.09.26-12.28.22:603][991]LogSavePackage: Save=28.40ms
+[2016.09.26-12.28.22:603][991]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile5B2BAB914238596EB034AA9EFD0A09DE.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2016.09.26-12.28.22:607][991]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2016.09.26-12.28.24:236][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.28.24:236][ 39]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:28:24 PM)
+[2016.09.26-12.28.24:236][ 39]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.28.24:239][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003157s)
+[2016.09.26-12.28.24:241][ 39]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.28.24:241][ 39]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2016.09.26-12.28.24:241][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.005222s)
+[2016.09.26-12.28.24:296][ 39]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.28.24:303][ 39]LogInit: FAudioDevice initialized.
+[2016.09.26-12.28.24:369][ 39]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.28.24:372][ 39]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.28.24
+[2016.09.26-12.28.24:373][ 39]LogWorld: Bringing up level for play took: 0.003099
+[2016.09.26-12.28.24:375][ 39]LogBlueprintDebug:Warning: Hit breakpoint on node 'K2Node_FunctionResult', from offset 52
+[2016.09.26-12.28.24:375][ 39]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ReceiveBeginPlay
+	Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:ExecuteUbergraph_RunGameMode
+	Function /Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode_C:AddFloorTile
+	Function /Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile_C:GetAttachTransform
+
+[2016.09.26-12.28.41:334][ 39]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 16.408
+[2016.09.26-12.28.48:200][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.28.48:200][324]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:28:48 PM)
+[2016.09.26-12.28.48:200][324]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.28.48:205][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004271s)
+[2016.09.26-12.28.48:207][324]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.28.48:207][324]LogPlayLevel: PIE: World Init took: (0.002792s)
+[2016.09.26-12.28.48:208][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007698s)
+[2016.09.26-12.28.48:280][324]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.28.48:288][324]LogInit: FAudioDevice initialized.
+[2016.09.26-12.28.48:320][324]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.28.48:325][324]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.28.48
+[2016.09.26-12.28.48:326][324]LogWorld: Bringing up level for play took: 0.004151
+[2016.09.26-12.28.48:338][324]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.588
+[2016.09.26-12.28.51:883][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.28.51:883][460]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:28:51 PM)
+[2016.09.26-12.28.51:883][460]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.28.51:888][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004065s)
+[2016.09.26-12.28.51:890][460]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.28.51:891][460]LogPlayLevel: PIE: World Init took: (0.002977s)
+[2016.09.26-12.28.51:891][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.007646s)
+[2016.09.26-12.28.51:964][460]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.28.51:972][460]LogInit: FAudioDevice initialized.
+[2016.09.26-12.28.52:037][460]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.28.52:041][460]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.28.52
+[2016.09.26-12.28.52:042][460]LogWorld: Bringing up level for play took: 0.003137
+[2016.09.26-12.28.52:050][460]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 1.125
+[2016.09.26-12.30.28:085][219]LogEditorTransaction: Undo Move Node
+[2016.09.26-12.31.17:386][702]BlueprintLog: New page: Compile RunGameMode
+[2016.09.26-12.31.17:601][702]BlueprintEditorCompileResults: Info [4193.77] Compile of RunGameMode successful! [in 215 ms] (/Game/ThirdPersonBP/Blueprints/RunGameMode.RunGameMode)
+[2016.09.26-12.31.18:234][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/RunGameMode" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset" SILENT=true
+[2016.09.26-12.31.18:265][732]LogSavePackage: Save=23.25ms
+[2016.09.26-12.31.18:265][732]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/RunGameModeB960492C4AA98DB6F81E9686A874177C.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2016.09.26-12.31.18:271][732]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2016.09.26-12.31.19:464][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2016.09.26-12.31.19:497][791]LogSavePackage: Save=20.37ms
+[2016.09.26-12.31.19:497][791]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile138462A649B92D22264A7FBD5CE3322D.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2016.09.26-12.31.19:502][791]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2016.09.26-12.31.21:818][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.31.21:819][874]PIE: New page: SIE session: RunLevel (Sep 26, 2016, 5:31:21 PM)
+[2016.09.26-12.31.21:819][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.31.21:822][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003646s)
+[2016.09.26-12.31.21:824][874]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.31.21:824][874]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2016.09.26-12.31.21:825][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.006087s)
+[2016.09.26-12.31.21:881][874]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.31.21:888][874]LogInit: FAudioDevice initialized.
+[2016.09.26-12.31.21:961][874]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.31.21:964][874]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.31.21
+[2016.09.26-12.31.21:965][874]LogWorld: Bringing up level for play took: 0.003198
+[2016.09.26-12.31.21:972][874]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel 1.046
+[2016.09.26-12.31.25:042][897]Cmd: SELECT NONE
+[2016.09.26-12.31.28:549][968]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.31.28:549][968]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:31:28 PM)
+[2016.09.26-12.31.28:549][968]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.31.28:552][968]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002845s)
+[2016.09.26-12.31.28:555][968]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.31.28:555][968]LogPlayLevel: PIE: World Init took: (0.002916s)
+[2016.09.26-12.31.28:555][968]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.006057s)
+[2016.09.26-12.31.28:604][968]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.31.28:609][968]LogInit: FAudioDevice initialized.
+[2016.09.26-12.31.28:671][968]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.31.28:674][968]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.31.28
+[2016.09.26-12.31.28:675][968]LogWorld: Bringing up level for play took: 0.003090
+[2016.09.26-12.31.28:684][968]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.242
+[2016.09.26-12.31.49:090][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2016.09.26-12.37.45:157][166]BlueprintLog: New page: Compile BP_FloorTile
+[2016.09.26-12.37.46:814][166]BlueprintEditorCompileResults: Info [4582.99] Compile of BP_FloorTile successful! [in 1,657 ms] (/Game/ThirdPersonBP/Blueprints/BP_FloorTile.BP_FloorTile)
+[2016.09.26-12.37.47:811][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_FloorTile" FILE="C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset" SILENT=true
+[2016.09.26-12.37.47:863][207]LogSavePackage: Save=42.14ms
+[2016.09.26-12.37.47:863][207]LogSavePackage: Moving 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile76D13AB3405222710EA1668A5BA4E41B.tmp' to 'C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset'
+[2016.09.26-12.37.47:868][207]LogSavePackage:Display: Finished SavePackage C:/Users/ade.KYIV/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile.uasset
+[2016.09.26-12.38.12:151][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.38.12:151][454]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:38:12 PM)
+[2016.09.26-12.38.12:151][454]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.38.12:159][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007322s)
+[2016.09.26-12.38.12:161][454]LogAIModule: Creating AISystem for world RunLevel
+[2016.09.26-12.38.12:161][454]LogPlayLevel: PIE: World Init took: (0.002241s)
+[2016.09.26-12.38.12:162][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/RunLevel.RunLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel (0.010156s)
+[2016.09.26-12.38.12:230][454]LogInit: XAudio2 using 'Speakers (Jabra UC VOICE 150a)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.26-12.38.12:237][454]LogInit: FAudioDevice initialized.
+[2016.09.26-12.38.12:301][454]LogWorld: Game class is 'RunGameMode_C'
+[2016.09.26-12.38.12:305][454]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel.RunLevel up for play (max tick rate 60) at 2016.09.26-15.38.12
+[2016.09.26-12.38.12:305][454]LogWorld: Bringing up level for play took: 0.002949
+[2016.09.26-12.38.12:316][454]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel -0.61
+[2016.09.26-12.38.23:686][541]Cmd: SELECT NONE
+[2016.09.26-12.38.32:152][750]LogContentStreaming: Texture pool size now 200 MB
+[2016.09.26-12.38.32:185][752]LogRenderer: Reallocating scene render targets to support 1272x900 (Frame:29639).
+[2016.09.26-12.38.33:225][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.26-12.38.33:225][804]PIE: New page: PIE session: RunLevel (Sep 26, 2016, 5:38:33 PM)
+[2016.09.26-12.38.33:226][804]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_RunLevel
+[2016.09.26-12.38.33:230][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004630s)
+[
